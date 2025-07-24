@@ -121,7 +121,10 @@ Invoice / UPI parser
       cd Parser
    ```
    should look like :
+   
    ![Parser](readme-assets/Parser_folder.jpeg)
+
+   
    THIS IS A CLI TOOL SO RUN IT ON TERMINAL: 
    
    run python file:
@@ -129,13 +132,16 @@ Invoice / UPI parser
       python parser2.py
    ```
    should look like:
+   
    ![python run](readme-assets/python_run.jpeg)
+   
    **BEFORE YOU RUN THE CODE MAKE SURE YOUR RUNNING IT IN THE CORRECT DIRECTORY . that is inside your DTSPRJ1 folder.**
 
 
    Run program: enter the file path you need parsed :
    ![App Screenshot](readme-assets/terminal_enter_file.jpeg)
-   
+
+
 **[NOTE:] use of " " throws an error . Do not use " " while entering file path.**
 
 example: 
