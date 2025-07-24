@@ -63,7 +63,7 @@ Invoice / UPI parser
    ![cmd_screenshot2](readme-assets/cmd_in_folder-2.jpeg)
 
    next clone repo to use program:
-   ![cmd_clone](clone_repo.png)
+   ![cmd_clone](readme-assets/clone_repo.png)
 
 
    Clone repo inside folder (open folder in terminal)
@@ -103,7 +103,7 @@ Invoice / UPI parser
      pip install -r requirements.txt
   ```
   should look like:
-  ![pip](pip_install.jpeg)
+  ![pip](readme-assets/pip_install.jpeg)
 
 
 
@@ -114,7 +114,7 @@ Invoice / UPI parser
       cd Parser
    ```
    should look like :
-   ![Parser](Parser_folder.jpeg)
+   ![Parser](readme-assets/Parser_folder.jpeg)
    THIS IS A CLI TOOL SO RUN IT ON TERMINAL: 
    
    run python file:
@@ -122,12 +122,12 @@ Invoice / UPI parser
       python parser2.py
    ```
    should look like:
-   ![python run](python_run.jpeg)
+   ![python run](readme-assets/python_run.jpeg)
    **BEFORE YOU RUN THE CODE MAKE SURE YOUR RUNNING IT IN THE CORRECT DIRECTORY . that is inside your DTSPRJ1 folder.**
 
 
    Run program: enter the file path you need parsed :
-   ![App Screenshot](terminal_enter_file.jpeg)
+   ![App Screenshot](readme-assets/terminal_enter_file.jpeg)
    
 **[NOTE:] use of " " throws an error . Do not use " " while entering file path.**
 
