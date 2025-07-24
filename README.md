@@ -77,7 +77,7 @@ Invoice / UPI parser
    ![cmd_clone](readme-assets/clone_repo.png)
 
 
-   Clone repo inside folder (open folder in terminal)
+   Clone repo inside folder-->
    ```bash
       git clone https://github.com/Muku-nd/DTSPRJ1.git
    ```
