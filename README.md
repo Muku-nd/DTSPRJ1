@@ -49,6 +49,8 @@ Invoice / UPI parser
        sudo apt update
        sudo apt install poppler-utils
   ```
+
+
    
 ## STEP2: Install Parser DTSPRJ-1:
 
@@ -72,6 +74,8 @@ next go into repo folder:
       cd DTSPRJ1
    ```
 
+
+
 ## STEP3: Install Dependencies
 install the required modules
 
@@ -94,7 +98,8 @@ should look like:
 ![pip](pip_install.png)
 
 
-## STEP3: How to use:
+
+## STEP4: How to use:
 
    navigate to parser file:
    ```bash
