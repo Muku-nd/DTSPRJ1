@@ -54,24 +54,27 @@ Invoice / UPI parser
    
 ## STEP2: Install Parser DTSPRJ-1:
 
-to install create a new folder in Documents/Downloads:
-![new folder screenshot](readme-assets/new-folder.jpeg)
-![new folder screenshot2](readme-assets/new-folder-2.jpeg)
+   to install create a new folder in Documents/Downloads:
+   ![new folder screenshot](readme-assets/new-folder.jpeg)
+   ![new folder screenshot2](readme-assets/new-folder-2.jpeg)
 
-next type cmd in the folder path to open the folder in terminal:
-![cmd_screenshot](readme-assets/cmd_in_folder.jpeg)
-![cmd_screenshot2](readme-assets/cmd_in_folder-2.jpeg)
+   next type cmd in the folder path to open the folder in terminal:
+   ![cmd_screenshot](readme-assets/cmd_in_folder.jpeg)
+   ![cmd_screenshot2](readme-assets/cmd_in_folder-2.jpeg)
 
-next clone repo to use program:
-![cmd_clone](clone_repo.png)
- Clone repo inside folder (open folder in terminal)
+   next clone repo to use program:
+   ![cmd_clone](clone_repo.png)
+
+
+   Clone repo inside folder (open folder in terminal)
    ```bash
       git clone https://github.com/Muku-nd/DTSPRJ1.git
    ```
-next navigate to project folder:
-![cmd_navigate](readme-assets/cmd_navigate.jpeg)
 
-next go into repo folder:
+   next navigate to project folder:
+   ![cmd_navigate](readme-assets/cmd_navigate.jpeg)
+
+   next go into repo folder:
    ```bash
       cd DTSPRJ1
    ```
@@ -79,26 +82,28 @@ next go into repo folder:
 
 
 ## STEP3: Install Dependencies
-install the required modules
+   install the required modules
 
-for best and safe use create and use a venv:
+   for best and safe use create and use a venv:
 
-```bash
-python -m venv venv
+   ```bash
+      python -m venv venv
 
-.venv\Scripts\activate
-```
-should look like:
-![venv](readme-assets/venv_create.jpeg)
-![venv2](readme-assets/venv_activate.jpeg)
+      .venv\Scripts\activate
+   ```
+   should look like:
+   
+   ![venv](readme-assets/venv_create.jpeg)
 
-To install the dependencies:
+   ![venv2](readme-assets/venv_activate.jpeg)
 
-```bash
-pip install -r requirements.txt
-```
-should look like:
-![pip](pip_install.jpeg)
+   To install the dependencies:
+
+  ```bash
+     pip install -r requirements.txt
+  ```
+  should look like:
+  ![pip](pip_install.jpeg)
 
 
 
@@ -125,7 +130,6 @@ should look like:
    ![App Screenshot](terminal_enter_file.jpeg)
    
 **[NOTE:] use of " " throws an error . Do not use " " while entering file path.**
-
 
 example: 
 
