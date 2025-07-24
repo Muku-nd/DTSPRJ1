@@ -73,6 +73,7 @@ Invoice / UPI parser
 
 
    next clone repo to use program:
+   
    ![cmd_clone](readme-assets/clone_repo.png)
 
 
@@ -115,6 +116,7 @@ Invoice / UPI parser
      pip install -r requirements.txt
   ```
   should look like:
+  
   ![pip](readme-assets/pip_install.jpeg)
 
 
@@ -145,6 +147,7 @@ Invoice / UPI parser
 
 
    Run program: enter the file path you need parsed :
+   
    ![App Screenshot](readme-assets/terminal_enter_file.jpeg)
 
 
