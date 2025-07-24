@@ -10,7 +10,7 @@ import cv2
 import logging
 import pytesseract
 from ultralytics import YOLO
-yolo_model = YOLO("YOLO-upi/best.pt")
+yolo_model = YOLO("../YOLO-upi/best.pt")
 DEBUG_MODE=False
 
 logging.basicConfig(
@@ -309,5 +309,5 @@ if __name__ == '__main__':
             for k, v in res.items():
                 if k != 'raw_text':
                     print(f"{k.title().replace('_', ' ')}: {v}")
-            output_file = "ParserRecords/upi_parsed.csv" if res["type"] == "upi_screenshot" else "ParserRecords/invoice_parsed.csv"
+            output_file = "../ParserRecords/upi_parsed.csv" if res["type"] == "upi_screenshot" else "../ParserRecords/invoice_parsed.csv"
             save_to_excel(res, output_file)
