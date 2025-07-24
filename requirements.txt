@@ -1,3 +1,10 @@
 pytesseract
 Pillow
 pdf2image
+opencv-python
+numpy
+ultralytics
+torch
+matplotlib
+tqdm
+requests
