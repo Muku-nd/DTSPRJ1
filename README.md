@@ -72,12 +72,12 @@ Invoice / UPI parser
    ![cmd_screenshot2](readme-assets/cmd_in_folder-2.jpeg)
 
 
-   next clone repo to use program:
+   next clone repo to Install Program:
    
    ![cmd_clone](readme-assets/clone_repo.png)
 
 
-   Clone repo inside folder-->
+   Clone repo -->
    ```bash
       git clone https://github.com/Muku-nd/DTSPRJ1.git
    ```
