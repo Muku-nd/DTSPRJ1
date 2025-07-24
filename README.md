@@ -1,6 +1,8 @@
 # DTSPRJ1
 Invoice / UPI parser
 
+
+
 ## STEP1: Install OCR AND PDF SOFTWARES
   ✅ Install Tesseract
 
@@ -51,6 +53,8 @@ Invoice / UPI parser
   ```
 
 
+
+
    
 ## STEP2: Install Parser DTSPRJ-1:
 
@@ -88,6 +92,7 @@ Invoice / UPI parser
 
 
 
+
 ## STEP3: Install Dependencies
    install the required modules
 
@@ -111,6 +116,7 @@ Invoice / UPI parser
   ```
   should look like:
   ![pip](readme-assets/pip_install.jpeg)
+
 
 
 
