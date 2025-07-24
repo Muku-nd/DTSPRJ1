@@ -18,6 +18,8 @@ pip install requirements.txt
 
 **BEFORE YOU RUN THE CODE MAKE SURE YOUR RUNNING IT IN THE CORRECT DIRECTORY :
 that is inside your DTSPRJ1 folder.**
+
+
 Run program and enter the file path you need parsed :
 ![App Screenshot](readme-assets/program_use_screenshot-1.png)
 
