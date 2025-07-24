@@ -55,10 +55,12 @@ Invoice / UPI parser
 ## STEP2: Install Parser DTSPRJ-1:
 
 to install create a new folder in Documents/Downloads:
-![new folder screenshot](readme-assets/new-folder.png)
+![new folder screenshot](readme-assets/new-folder.jpeg)
+![new folder screenshot2](readme-assets/new-folder-2.jpeg)
 
 next type cmd in the folder path to open the folder in terminal:
-![cmd_screenshot](readme-assets/cmd_in_folder.png)
+![cmd_screenshot](readme-assets/cmd_in_folder.jpeg)
+![cmd_screenshot2](readme-assets/cmd_in_folder-2.jpeg)
 
 next clone repo to use program:
 ![cmd_clone](clone_repo.png)
@@ -67,7 +69,7 @@ next clone repo to use program:
       git clone https://github.com/Muku-nd/DTSPRJ1.git
    ```
 next navigate to project folder:
-![cmd_navigate](readme-assets/cmd_navigate.png)
+![cmd_navigate](readme-assets/cmd_navigate.jpeg)
 
 next go into repo folder:
    ```bash
@@ -87,7 +89,8 @@ python -m venv venv
 .venv\Scripts\activate
 ```
 should look like:
-![venv](readme-assets/venv_create.png)
+![venv](readme-assets/venv_create.jpeg)
+![venv2](readme-assets/venv_activate.jpeg)
 
 To install the dependencies:
 
@@ -95,7 +98,7 @@ To install the dependencies:
 pip install -r requirements.txt
 ```
 should look like:
-![pip](pip_install.png)
+![pip](pip_install.jpeg)
 
 
 
@@ -106,7 +109,7 @@ should look like:
       cd Parser
    ```
    should look like :
-   ![Parser](Parser_folder.png)
+   ![Parser](Parser_folder.jpeg)
    THIS IS A CLI TOOL SO RUN IT ON TERMINAL: 
    
    run python file:
@@ -114,12 +117,12 @@ should look like:
       python parser2.py
    ```
    should look like:
-   ![python run](python_run.png)
+   ![python run](python_run.jpeg)
    **BEFORE YOU RUN THE CODE MAKE SURE YOUR RUNNING IT IN THE CORRECT DIRECTORY . that is inside your DTSPRJ1 folder.**
 
 
    Run program: enter the file path you need parsed :
-   ![App Screenshot](terminal_enter_file.png)
+   ![App Screenshot](terminal_enter_file.jpeg)
    
 **[NOTE:] use of " " throws an error . Do not use " " while entering file path.**
 
