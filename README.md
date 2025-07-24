@@ -15,15 +15,18 @@ To install the dependencies:
 pip install requirements.txt
 ```
 ## How to use:
+
+**BEFORE YOU RUN THE CODE MAKE SURE YOUR RUNNING IT IN THE CORRECT DIRECTORY :
+that is inside your DTSPRJ1 folder.**
 Run program and enter the file path you need parsed :
 ![App Screenshot](readme-assets/program_use_screenshot-1.png)
 
-[NOTE:] use of " " throws an error . Do not use " " while entering file path.
+**[NOTE:]** use of " " throws an error . Do not use " " while entering file path.
 
 example: 
 
 with quotes: throws an error
-["c:\users\documents\filename.png"]- this wont work
+**["c:\users\documents\filename.png"]**- this wont work
 
 without quotes:works
-[c:\users\documents\filename.png]- works
+**[c:\users\documents\filename.png]**- works
