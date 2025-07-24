@@ -55,12 +55,18 @@ Invoice / UPI parser
 ## STEP2: Install Parser DTSPRJ-1:
 
    to install create a new folder in Documents/Downloads:
+   
    ![new folder screenshot](readme-assets/new-folder.jpeg)
+   
    ![new folder screenshot2](readme-assets/new-folder-2.jpeg)
 
+
    next type cmd in the folder path to open the folder in terminal:
+   
    ![cmd_screenshot](readme-assets/cmd_in_folder.jpeg)
+   
    ![cmd_screenshot2](readme-assets/cmd_in_folder-2.jpeg)
+
 
    next clone repo to use program:
    ![cmd_clone](readme-assets/clone_repo.png)
@@ -72,6 +78,7 @@ Invoice / UPI parser
    ```
 
    next navigate to project folder:
+   
    ![cmd_navigate](readme-assets/cmd_navigate.jpeg)
 
    next go into repo folder:
