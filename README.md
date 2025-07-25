@@ -3,7 +3,7 @@ Invoice / UPI parser
 
 
 
-## STEP1: Install OCR AND PDF SOFTWARES
+## STEP1: Install OCR AND POPPLER (REQUIRED) 
   ✅ Install Tesseract
 
    **Windows:**
