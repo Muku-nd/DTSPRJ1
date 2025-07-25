@@ -133,7 +133,7 @@ Invoice / UPI parser
    ![Parser](readme-assets/Parser_folder.jpeg)
 
    
-   THIS IS A CLI TOOL SO RUN IT ON TERMINAL: 
+   THIS IS A CLI TOOL : 
    
    run python file:
    ```bash
